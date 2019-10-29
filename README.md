@@ -130,8 +130,11 @@ Contact members of the parliament to express concern about and solidarity with t
 
 Sign the parliamentary petitions below. (Note: they "will not publish your information online, but your name will be included in the final petition presented to the House of Representatives.")
 
-- [(EN1032) Add Human Rights Clauses to Trade Agreement with Hong Kong](https://aph.gov.au/petition_sign?id=EN1032) (closes October 9th)
-- [(EN1029) Bring Hong Kong's predicament to the United Nations Human Rights Council](https://www.aph.gov.au/petition_sign?id=EN1029) (closes October 9th)
+https://www.aph.gov.au/petition_list?id=EN1060
+https://www.aph.gov.au/petition_list?id=EN1067
+
+- [(EN1060) Introduce the International Human Rights and Corruption (Magnitsky Sanctions) Bill](https://www.aph.gov.au/petition_list?id=EN1060) (closes November 13)
+- [(EN1070) Treat British National Overseas, as British Citizens](https://www.aph.gov.au/petition_list?id=EN1067) (closes November 13)
 
 ## 🇹🇼 For Taiwanese residents/citizens
 
